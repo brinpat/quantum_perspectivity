@@ -1,1 +1,1 @@
-# quantum_perspectivity
+# Quantum Perspectivity

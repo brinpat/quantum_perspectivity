@@ -6,4 +6,6 @@ Higher energy waves may collide with dark matter edge more causing bends in spac
  
 This will cause all the waves to loop in a torus shape overtime turning the torus into a sphere as the tunnel widens and forms a spherical wave particle with a gravitational manifold around it.
 
+![Alt text](.GIF/quantum_gravity_simulation.gif)
+
 Copyright (c) 2024 Brinley Patterson
